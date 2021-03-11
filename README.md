@@ -16,7 +16,7 @@ AWS tabs simultaneously after signing back in to the AWS Console.
 ## Installation
 
 * Clone this repo or download the raw workflow script for your preferred browser (Chrome or Safari)
-* Double click the workflow script to install it as a macOS service extension for Chrome or Safari
+* Double click the top-level workflow package (e.g., "Refresh AWS Safari.workflow") to install it as a macOS service extension for Chrome or Safari
 * Workflow script will be automatically moved to ~/Library/Services by default upon installation
 
 ## Usage
