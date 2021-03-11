@@ -22,7 +22,7 @@ AWS tabs simultaneously after signing back in to the AWS Console.
 ## Usage
 
 * Leave all AWS Console tabs open, and log back into the AWS console from one tab to refresh session
-* From the menu bar, click `Services > Refresh AWS (Chrome or Safari)` to refresh all AWS tabs
+* From the menu bar, click `Safari > Services > Refresh AWS Safari` (or the equivalent menu path for Chrome) to refresh all AWS tabs
 * All tabs with root domain \*aws.amazon.com will be simultaneously refreshed, and login session will be restored
 
 ## License
