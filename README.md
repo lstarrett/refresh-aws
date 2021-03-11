@@ -16,7 +16,7 @@ reloading each tab individually to refresh its session.
 
 ## Installation
 
-* Clone this repo, or download the individual raw workflow package (e.g., "Refresh AWS Safari.workflow") for your preferred browser (Chrome or Safari)
+* Clone this repo, or download the individual raw workflow package (e.g., `Refresh AWS Safari.workflow`) for your preferred browser (Chrome or Safari)
 * Double click the top-level workflow package (directory ending in `.workflow`) to install the contained AppleScript as a macOS service extension for Chrome or Safari
 * The workflow package will be automatically moved to ~/Library/Services by default upon installation
 
