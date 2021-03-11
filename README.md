@@ -30,7 +30,7 @@ reloading each tab individually to refresh its session.
   session
 * From the application menu bar, click `Safari > Services > Refresh AWS Safari`
   (or the equivalent menu path for Chrome) to refresh all AWS tabs
-* All tabs with root domain \*aws.amazon.com will be simultaneously refreshed,
+* All tabs with root domain `*aws.amazon.com` will be simultaneously refreshed,
   restoring logged in sessions for each tab
 
 ## License
