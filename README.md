@@ -1,6 +1,6 @@
 # Refresh AWS
 
-Refresh all AWS tabs simultaneously in Chrome or Safari on macOS
+Refresh all AWS Console tabs simultaneously in Chrome or Safari on macOS
 
 ## Description
 
