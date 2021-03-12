@@ -19,7 +19,7 @@ reloading each tab individually to refresh its session.
 * Clone or download this repo
 * Double click the top-level workflow package (directory ending in `.workflow`)
   to install the contained AppleScript as a macOS service extension for your
-  preferred browser (Chrome or Safari)
+  preferred web browser (Chrome or Safari)
 * The workflow package will be automatically moved to ~/Library/Services by
   default upon installation
 
